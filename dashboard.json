@@ -1,0 +1,11 @@
+{
+  "revenue": 4800000,
+  "profit": 1350000,
+  "expenses": 3450000,
+  "cashAvailable": 8300000,
+  "outstandingInvoices": 1250000,
+  "customers": 142,
+  "businessHealth": 91,
+  "profitGrowth": 14,
+  "pendingInvoices": 7
+}

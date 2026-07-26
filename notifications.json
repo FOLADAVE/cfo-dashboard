@@ -1,0 +1,17 @@
+[
+  {
+    "type": "warning",
+    "title": "Invoice Overdue",
+    "message": "Invoice INV-1003 is overdue."
+  },
+  {
+    "type": "success",
+    "title": "Revenue Increased",
+    "message": "Revenue increased by 14% this month."
+  },
+  {
+    "type": "info",
+    "title": "Payroll Reminder",
+    "message": "Payroll is due tomorrow."
+  }
+]
